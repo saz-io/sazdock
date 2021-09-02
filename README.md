@@ -3,6 +3,7 @@
 
 
 ## This tool can be used to perform multiple ligand docking on the cloud,without using the user computer resources.
+#### Programmed By AhmedElTijani AKA S3cr3tSDN
 please open the sazdock.ipynb in your google colab workspace | 
 <a class="github-button" href=https://github.com/saz-io/sazdock/blob/4a8c85d9db9384b971f9c2ad7ca369b8aa76a415/sazdock.ipynb data-icon="octicon-download" data-size="large" >click to open sazdock colab </a>
 
